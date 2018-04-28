@@ -1,0 +1,14 @@
+{
+  "name": "depup",
+  "version": "0.1.0",
+  "description": "depedency updater",
+  "main": "index.js",
+  "bin": {
+    "depup": "./cli"
+  },
+  "repository": "git@github.com:wookets/depup.git",
+  "author": "Sean Wesenberg <wookets@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {}
+}
